@@ -1,2 +1,2 @@
-#ignore all .txt ffiles
+#ignore all .txt files
 *.txt
